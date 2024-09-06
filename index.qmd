@@ -1,0 +1,20 @@
+---
+title: "Welcome"
+---
+
+```{=html}
+<script type="text/javascript">
+  // User's preferred language setting (for testing purposes)
+  const userLanguage = navigator.language || navigator.userLanguage;
+
+  // Check if the user's preferred language is Korean ('ko') and redirect accordingly
+  if (userLanguage.includes('ko')) {
+    window.location.href = "/kr/index.html";
+  } else {
+    window.location.href = "/en/index.html";
+  }
+</script>
+```
+# Welcome to the Multilingual Site
+
+You will be redirected based on your browser's language setting. If not, you can manually select a language using the navigation menu.
