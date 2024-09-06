@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "Welcome to the Multilingual Site\nYou will be redirected based on your browser’s language setting. If not, you can manually select a language using the navigation menu."
-  },
-  {
     "objectID": "kr/index.html",
     "href": "kr/index.html",
     "title": "홈",
     "section": "",
     "text": "환영합니다\n이 페이지는 한국어로 작성되었습니다."
+  },
+  {
+    "objectID": "en/index.html",
+    "href": "en/index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome\nThis page is in English."
   },
   {
     "objectID": "about.html",
@@ -21,10 +21,10 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "en/index.html",
-    "href": "en/index.html",
-    "title": "Home",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
     "section": "",
-    "text": "Welcome\nThis page is in English."
+    "text": "Welcome to the Multilingual Site\nYou will be redirected based on your browser’s language setting. If not, you can manually select a language using the navigation menu."
   }
 ]
